@@ -16,3 +16,12 @@ def finalPage():
     return render_template("final.html")
 
 
+if __name__ == '__main__':
+
+    app.run(debug=True, host='0.0.0.0', port=5000)
+
+
+# esel vor mi ip adress -ov baci 
+# if __name__ == '__main__':
+
+#     app.run(debug=True)     
