@@ -21,7 +21,7 @@ This is a simple Python Flask project that I created to learn how to:
 1. Clone the repository.
 
 ```sh
-https://github.com/Arman997/ClimateNet_Homework_2
+git@github.com:Arman997/ClimateNet_Homework_2.git
 ```
 
 2. After cloning go to the folder and type this command to create your **venv**.
